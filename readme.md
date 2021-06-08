@@ -1,4 +1,5 @@
 # Machine-Learning-with-clustering[CSC311 A3]
+This is a project from the Machine Learning course from the University of Toronto.
 
 ## Introduction to Principle Component Analysis 
 Implementing PCA from sklearn to MINST data. Created PCA from scrate to make comprison on accuracy.
